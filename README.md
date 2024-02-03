@@ -1,12 +1,45 @@
-# manage-landing-page
-Built a landing page for a client, this is just a nerfed working model of what was originally build using HTML5, CSS3, VanillaJS and Tailwind CSS.
+# Landing Page Project
 
-****Usage****
-Install dependencies (Tailwind)
-<br>npm install
+## Overview
 
-Run the Tailwind CLI to compile the *input.css* during the development. The output file is **css/main.css**
-<br>npm run watch
+This repository contains a landing page built for a client using HTML5, CSS3, VanillaJS, and Tailwind CSS. It serves as a nerfed working model for the original project.
 
-Or to just build once, type
-<br>npm run build
+## Installation
+
+To set up the project and install dependencies (Tailwind), run the following command:
+
+```bash
+npm install
+```
+
+## Development
+
+During development, you can use the Tailwind CLI to compile the `input.css` file. The compiled output will be saved in `css/main.css`. To watch for changes and automatically recompile, use:
+
+```bash
+npm run watch
+```
+
+If you only need to build the project once, use:
+
+```bash
+npm run build
+```
+
+## Usage
+
+1. Install dependencies.
+2. Run the development script to compile and watch for changes.
+3. Build the project using the provided script if needed.
+
+Feel free to customize and extend the landing page according to your client's requirements.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md).
+
+## Acknowledgments
+
+Special thanks to Tailwind CSS for providing a powerful utility-first CSS framework.
+
+Happy coding! 🚀
