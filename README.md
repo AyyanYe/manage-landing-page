@@ -4,6 +4,10 @@
 
 This repository contains a landing page built for a client using HTML5, CSS3, VanillaJS, and Tailwind CSS. It serves as a nerfed working model for the original project.
 
+## Live View
+
+You can view the live version of the project here: [Live Demo](https://polite-melomakarona-d0136a.netlify.app/)
+
 ## Installation
 
 To set up the project and install dependencies (Tailwind), run the following command:
